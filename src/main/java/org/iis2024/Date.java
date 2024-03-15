@@ -86,4 +86,10 @@ public class Date {
       return false;
     }
   }
+  
+  
+  public void extraMethod() {
+	  System.out.println("Method added by Osiris");
+  }
+  
 }
